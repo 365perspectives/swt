@@ -1,0 +1,4 @@
+create table kunde
+(knr INTEGER primary key,
+name varchar(50)
+vorname varchar(50));
